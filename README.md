@@ -9,7 +9,7 @@ This is a simple Python script that opens Google with search parameters entered 
 ```bash
   google how to center a div
 ```
-
+Will open webbrowser and google for "how to center a div"
 
 
 ## Install
