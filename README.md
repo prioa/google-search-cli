@@ -5,7 +5,7 @@ This is a simple Python script that opens Google with search parameters entered 
 
 
 ## Usage/Examples
-
+in Console type:
 ```bash
   google how to center a div
 ```
